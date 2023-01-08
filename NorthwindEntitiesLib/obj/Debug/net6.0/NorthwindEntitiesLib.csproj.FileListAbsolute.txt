@@ -1,0 +1,14 @@
+/home/user/PracticalApps/NorthwindEntitiesLib/bin/Debug/net6.0/NorthwindEntitiesLib.deps.json
+/home/user/PracticalApps/NorthwindEntitiesLib/bin/Debug/net6.0/NorthwindEntitiesLib.runtimeconfig.json
+/home/user/PracticalApps/NorthwindEntitiesLib/bin/Debug/net6.0/NorthwindEntitiesLib.dll
+/home/user/PracticalApps/NorthwindEntitiesLib/bin/Debug/net6.0/NorthwindEntitiesLib.pdb
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/NorthwindEntitiesLib.csproj.AssemblyReference.cache
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/NorthwindEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/NorthwindEntitiesLib.AssemblyInfoInputs.cache
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/NorthwindEntitiesLib.AssemblyInfo.cs
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/NorthwindEntitiesLib.dll
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/refint/NorthwindEntitiesLib.dll
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/NorthwindEntitiesLib.pdb
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/NorthwindEntitiesLib.genruntimeconfig.cache
+/home/user/PracticalApps/NorthwindEntitiesLib/obj/Debug/net6.0/ref/NorthwindEntitiesLib.dll

@@ -1,0 +1,15 @@
+/home/user/PracticalApps/NorthwindContextLib/bin/Debug/net6.0/NorthwindContextLib.deps.json
+/home/user/PracticalApps/NorthwindContextLib/bin/Debug/net6.0/NorthwindContextLib.dll
+/home/user/PracticalApps/NorthwindContextLib/bin/Debug/net6.0/NorthwindContextLib.pdb
+/home/user/PracticalApps/NorthwindContextLib/bin/Debug/net6.0/NorthwindEntitiesLib.dll
+/home/user/PracticalApps/NorthwindContextLib/bin/Debug/net6.0/NorthwindEntitiesLib.pdb
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/NorthwindContextLib.csproj.AssemblyReference.cache
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/NorthwindContextLib.AssemblyInfoInputs.cache
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/NorthwindContextLib.AssemblyInfo.cs
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/NorthwindContextLib.csproj.CoreCompileInputs.cache
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/NorthwindContextLib.csproj.CopyComplete
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/NorthwindContextLib.dll
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/refint/NorthwindContextLib.dll
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/NorthwindContextLib.pdb
+/home/user/PracticalApps/NorthwindContextLib/obj/Debug/net6.0/ref/NorthwindContextLib.dll

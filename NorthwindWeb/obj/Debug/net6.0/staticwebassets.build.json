@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "Hash": "8OjnQ7XNb+RGx5q4fV1R0SEfXvdut5+2bLmtT9WFRVk=",
+  "Source": "NorthwindWeb",
+  "BasePath": "_content/NorthwindWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/home/user/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj",
+      "Version": 2,
+      "Source": "NorthwindEmployees",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NorthwindWeb/wwwroot",
+      "Source": "NorthwindWeb",
+      "ContentRoot": "/home/user/PracticalApps/NorthwindWeb/wwwroot/",
+      "BasePath": "_content/NorthwindWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/user/PracticalApps/NorthwindWeb/wwwroot/bootstrap.js",
+      "SourceId": "NorthwindWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/user/PracticalApps/NorthwindWeb/wwwroot/",
+      "BasePath": "_content/NorthwindWeb",
+      "RelativePath": "bootstrap.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/bootstrap.js"
+    },
+    {
+      "Identity": "/home/user/PracticalApps/NorthwindWeb/wwwroot/bootstrap5.1.3.css",
+      "SourceId": "NorthwindWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/user/PracticalApps/NorthwindWeb/wwwroot/",
+      "BasePath": "_content/NorthwindWeb",
+      "RelativePath": "bootstrap5.1.3.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/bootstrap5.1.3.css"
+    },
+    {
+      "Identity": "/home/user/PracticalApps/NorthwindWeb/wwwroot/index.html",
+      "SourceId": "NorthwindWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/user/PracticalApps/NorthwindWeb/wwwroot/",
+      "BasePath": "_content/NorthwindWeb",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e2T1bgLdZ+IXSxOEvEbqwhj0WbNs52hA3PN1KuLduFo=",
+  "Source": "NorthwindEmployees",
+  "BasePath": "_content/NorthwindEmployees",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

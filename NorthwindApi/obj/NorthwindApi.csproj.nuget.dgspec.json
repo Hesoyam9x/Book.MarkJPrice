@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/user/PracticalApps/NorthwindApi/NorthwindApi.csproj": {}
+  },
+  "projects": {
+    "/home/user/PracticalApps/NorthwindApi/NorthwindApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/user/PracticalApps/NorthwindApi/NorthwindApi.csproj",
+        "projectName": "NorthwindApi",
+        "projectPath": "/home/user/PracticalApps/NorthwindApi/NorthwindApi.csproj",
+        "packagesPath": "/home/user/.nuget/packages/",
+        "outputPath": "/home/user/PracticalApps/NorthwindApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/user/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/user/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
+                "projectPath": "/home/user/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/user/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/user/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj",
+        "projectName": "NorthwindContextLib",
+        "projectPath": "/home/user/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj",
+        "packagesPath": "/home/user/.nuget/packages/",
+        "outputPath": "/home/user/PracticalApps/NorthwindContextLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/user/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/user/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
+                "projectPath": "/home/user/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/user/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/user/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
+        "projectName": "NorthwindEntitiesLib",
+        "projectPath": "/home/user/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
+        "packagesPath": "/home/user/.nuget/packages/",
+        "outputPath": "/home/user/PracticalApps/NorthwindEntitiesLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/user/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
